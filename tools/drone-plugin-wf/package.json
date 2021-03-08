@@ -8,7 +8,7 @@
   "private": true,
   "dependencies": {
     "request": "^2.60.0",
-    "webpagetest": "^0.3.3",
+    "webpagetest": "^0.4.0",
     "yargs": "^3.32.0"
   }
 }
