@@ -1,5 +1,5 @@
 source "http://rubygems.org"
 
-gem 'jekyll', '>=2.5.3'
+gem 'jekyll', '>= 3.0.0'
 gem 'kramdown'
-gem 'sanitize'
+gem 'sanitize', '>= 4.0.1'
